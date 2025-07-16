@@ -1,0 +1,6 @@
+numpy
+Pillow
+pydub
+reportlab
+python-pptx
+PyPDF2
